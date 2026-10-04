@@ -118,7 +118,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Cuentas de prueba:\nadmin@edu.com / admin123\nprofesor@edu.com / prof123\nalumno@edu.com / alum123"
+                android:text="Cuentas de prueba:\nadmin@gestioncursos.com / admin123 \atorres@gestioncursos.com / atorres123\nmlopez@gmail.com / nmlopez123"
                 android:textSize="11sp"
                 android:textColor="@color/text_secondary"
                 android:gravity="center"
