@@ -1,0 +1,9 @@
+com.example.gestioncursos.app-pngs-0 C:\Users\piero\Downloads\GestionCursos\GestionCursos\app\build\generated\res\pngs\debug
+com.example.gestioncursos.app-res-1 C:\Users\piero\Downloads\GestionCursos\GestionCursos\app\build\generated\res\processDebugGoogleServices
+com.example.gestioncursos.app-updated_navigation_xml-2 C:\Users\piero\Downloads\GestionCursos\GestionCursos\app\build\generated\updated_navigation_xml\debug
+com.example.gestioncursos.app-packageDebugResources-3 C:\Users\piero\Downloads\GestionCursos\GestionCursos\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.gestioncursos.app-packageDebugResources-4 C:\Users\piero\Downloads\GestionCursos\GestionCursos\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.gestioncursos.app-debug-5 C:\Users\piero\Downloads\GestionCursos\GestionCursos\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.gestioncursos.app-debug-6 C:\Users\piero\Downloads\GestionCursos\GestionCursos\app\src\debug\res
+com.example.gestioncursos.app-main-7 C:\Users\piero\Downloads\GestionCursos\GestionCursos\app\src\main\res
+gradleHome-0 C:\Users\piero\.gradle

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF6584</color>
+    <color name="admin_color">#FF6584</color>
+    <color name="alumno_color">#43D98F</color>
+    <color name="background">#F5F6FA</color>
+    <color name="black">#0A0A0A</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="danger">#FF5252</color>
+    <color name="divider">#EEEEEE</color>
+    <color name="primary">#6C63FF</color>
+    <color name="primary_dark">#5A52D5</color>
+    <color name="profesor_color">#6C63FF</color>
+    <color name="success">#43D98F</color>
+    <color name="text_primary">#2D2D3A</color>
+    <color name="text_secondary">#8A8A9A</color>
+    <color name="warning">#FFB74D</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="avatar_size">52dp</dimen>
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="header_height">200dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_standard">16dp</dimen>
+    <dimen name="text_body">13sp</dimen>
+    <dimen name="text_caption">11sp</dimen>
+    <dimen name="text_subtitle">15sp</dimen>
+    <dimen name="text_title">20sp</dimen>
+    <string name="aceptar">Aceptar</string>
+    <string name="activar_desactivar">Activar/Desactivar</string>
+    <string name="alumnos_inscritos">Alumnos Inscritos</string>
+    <string name="app_name">Sobrevive U</string>
+    <string name="asignar_profesor">Asignar Profesor</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="buscar_cursos">Buscar Cursos</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="confirmar_eliminar">¿Eliminar este curso?</string>
+    <string name="crear_curso">Crear Curso</string>
+    <string name="curso">Curso</string>
+    <string name="descargar_pdf">Descargar PDF</string>
+    <string name="descripcion">Descripción</string>
+    <string name="editar_curso">Editar Curso</string>
+    <string name="eliminar_curso">Eliminar Curso</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="estado">Estado</string>
+    <string name="fecha_limite">Fecha límite</string>
+    <string name="gcm_defaultSenderId" translatable="false">164641608159</string>
+    <string name="gestionar_cursos">Gestionar Cursos</string>
+    <string name="google_api_key" translatable="false">AIzaSyCPAkg9gnhbR1DXUMHuiPRNOvc0GY3jgtA</string>
+    <string name="google_app_id" translatable="false">1:164641608159:android:e20a95631dd93c07dc346a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCPAkg9gnhbR1DXUMHuiPRNOvc0GY3jgtA</string>
+    <string name="google_storage_bucket" translatable="false">sobrevive-u.firebasestorage.app</string>
+    <string name="login_subtitle">Inicia sesión para continuar</string>
+    <string name="login_title">Bienvenido</string>
+    <string name="marcar_completada">Marcar completada</string>
+    <string name="mis_cursos">Mis Cursos</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="project_id" translatable="false">sobrevive-u</string>
+    <string name="role_admin">Administrador</string>
+    <string name="role_alumno">Alumno</string>
+    <string name="role_profesor">Profesor</string>
+    <string name="sin_alumnos">Ningún alumno inscrito</string>
+    <string name="sin_cursos">Aún no tienes cursos inscritos</string>
+    <string name="subir_material">Subir Material</string>
+    <string name="tarea_completada">Tarea completada</string>
+    <string name="tareas_pendientes">Tareas pendientes</string>
+    <string name="titulo">Título</string>
+    <style name="CardStyle" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="contentPadding">16dp</item>
+    </style>
+    <style name="OutlineButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/primary</item>
+        <item name="android:textColor">@color/primary</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+    <style name="PrimaryButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+    </style>
+    <style name="Theme.GestionCursos" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+</resources>

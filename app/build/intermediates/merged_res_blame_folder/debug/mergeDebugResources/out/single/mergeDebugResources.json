@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_bg_gradient_alumno.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\bg_gradient_alumno.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_circle_bg.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_item_alumno.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\item_alumno.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_horarios_alumno.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_horarios_alumno.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_gestion_tareas_profesor.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_gestion_tareas_profesor.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_alumnos_inscritos.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_alumnos_inscritos.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_gestion_horarios_admin.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_gestion_horarios_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_item_curso.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\item_curso.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_crear_editar_curso.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_crear_editar_curso.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_bg_gradient_admi.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\bg_gradient_admi.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\font_poppins.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_category.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_exit.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_alumno_dashboard.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_alumno_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_timer.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_detalle_curso.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_detalle_curso.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_signal.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_signal.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_item_tarea.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\item_tarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_item_horario.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\item_horario.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_horarios_profesor.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_horarios_profesor.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_profesor_dashboard.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_profesor_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_bg_icon_purple.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\bg_icon_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_crear_editar_tarea.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_crear_editar_tarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_bg_pdf_drop_area.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\bg_pdf_drop_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_bg_card_rounded.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\bg_card_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_tareas_alumno.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_tareas_alumno.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_school.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_school.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_buscar_cursos.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_buscar_cursos.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_bg_avatar_white.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\bg_avatar_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_bg_gradient_profesor.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\bg_gradient_profesor.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\layout_activity_gestion_cursos_admin.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\layout\\activity_gestion_cursos_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_pdf.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_bg_icon_red.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\bg_icon_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_bg_badge_white.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\bg_badge_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_bg_spinner.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\bg_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "com.example.gestioncursos.app-debug-53:/layout_activity_gestion_cursos_admin.xml.flat",
+        "source": "com.example.gestioncursos.app-main-55:/layout/activity_gestion_cursos_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-debug-53:\\drawable_bg_gradient.xml.flat",
+        "source": "C:\\Users\\piero\\.gradle\\daemon\\9.4.1\\com.example.gestioncursos.app-main-55:\\drawable\\bg_gradient.xml"
+    }
+]

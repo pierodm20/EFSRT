@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164641608159",
+    "project_id": "sobrevive-u",
+    "storage_bucket": "sobrevive-u.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164641608159:android:e20a95631dd93c07dc346a",
+        "android_client_info": {
+          "package_name": "com.example.gestioncursos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPAkg9gnhbR1DXUMHuiPRNOvc0GY3jgtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

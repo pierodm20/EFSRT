@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gestioncursos">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GestionCursos">
+        <activity
+            android:name=".RegistrarUsuarioActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.TareasAlumnoActivity" />
+        <activity android:name=".activities.GestionTareasProfesorActivity" />
+        <activity android:name=".activities.CrearEditarTareaActivity" /> <!-- Alumno -->
+        <activity android:name=".activities.AlumnoDashboardActivity" />
+        <activity android:name=".activities.BuscarCursosActivity" />
+        <activity android:name=".activities.DetalleCursoActivity" />
+        <activity android:name=".activities.HorariosAlumnoActivity" /> <!-- Profesor -->
+        <activity android:name=".activities.ProfesorDashboardActivity" />
+        <activity android:name=".activities.CrearEditarCursoActivity" />
+        <activity android:name=".activities.AlumnosInscritosActivity" />
+        <activity android:name=".activities.HorariosProfesorActivity" /> <!-- Admin -->
+        <activity android:name=".activities.AdminDashboardActivity" />
+        <activity android:name=".activities.GestionCursosAdminActivity" />
+        <activity android:name=".activities.GestionHorariosAdminActivity" />
+    </application>
+
+</manifest>
